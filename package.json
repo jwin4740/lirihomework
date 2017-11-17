@@ -1,0 +1,29 @@
+{
+  "name": "lirihomework",
+  "version": "1.0.0",
+  "description": "my first node command line app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwin4740/lirihomework.git"
+  },
+  "keywords": [
+    "liri",
+    "node",
+    "homework",
+    "James",
+    "coding"
+  ],
+  "author": "James J Winkle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwin4740/lirihomework/issues"
+  },
+  "homepage": "https://github.com/jwin4740/lirihomework#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
